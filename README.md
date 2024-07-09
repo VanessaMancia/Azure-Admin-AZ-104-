@@ -55,3 +55,28 @@
 
 ### Refresh the page and confirm the invited user was created. You should receive the invitation email shortly.
 
+---
+
+## Task 2: Create groups and add members 
+
+### There are 2 ways members are assigned to groups: Statically and Dynamically. Static groups require admins to add and remove members manually whereas dynamic groups update automatically based on the properties of the user account/device. 
+
+### In the Azure portal, search for and select Groups.
+
+### In the All groups blade, select + New group and create a new group.
+
+| Setting                  | Value
+| ------------------------ | -----
+| Group Type               |Security 
+| Group Name              | IT Lab Administrators
+| Group Description(Properties Tab)  | Administrators that manage the IT Lab 
+| Membership type | Assigned 
+
+### Add members to the group and select create to deploy the group
+
+### Review the member and owner information 
+
+---
+
+![image](https://github.com/VanessaMancia/Azure-Admin-AZ-104-/assets/112146207/411392e5-08fc-4c0e-a089-c918d745a3af)
+
